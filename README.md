@@ -49,6 +49,6 @@ https://carvalhokids.vercel.app/index.html
 
 - **Link vercel:** https://carvalhokids.vercel.app/index.html
 - **Link github:** https://github.com/davinaldi/Projeto-Carvalhokids
-- **Arquivo PDF:** ## Arquivo PDF
+- **Arquivo PDF:** [Visualizar apresentação do projeto](./Apresentação%20em%20PDF.pdf)
 
-[Visualizar apresentação do projeto](Apresentação em PDF.pdf)
+
